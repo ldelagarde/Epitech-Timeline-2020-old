@@ -18,7 +18,7 @@ function drawChart() {
     [ 'B4 - Prog Elem Appliquee / Projet'  ,  'Trade'                                 ,  new Date(2017, 1, 30), new Date(2017, 6, 11) ],
     [ 'B4 - Écrits professionnels'         ,  'Diaporama pour décrocher 1M$'          ,  new Date(2017, 2, 20), new Date(2017, 3, 5)  ],
     [ 'B4 - Sécurité Web'                  ,  'SHODAN Call For Paper'                 ,  new Date(2017, 2, 12), new Date(2017, 5, 3)  ],
-    [ 'B4 - Système Unix - Mémoire'        ,  'nm/objdump'                            ,  new Date(2017, 2, 13), new Date(2017, 2, 20) ],
+    [ 'B4 - Système Unix - Mémoire'        ,  'nm/objdump'                            ,  new Date(2017, 2, 13), new Date(2017, 2, 26) ],
     [ 'B4 - Sécurité Web'                  ,  'SHODAN'                                ,  new Date(2017, 2, 13), new Date(2017, 3, 12) ],
     [ 'B4 - Système Unix - Concurrence'    ,  'Philosophes'                           ,  new Date(2017, 3, 6) , new Date(2017, 3, 19) ],
     [ 'B4 - Écrits professionnels'         ,  'Rédiger un bilan d\'expérience'        ,  new Date(2017, 3, 6) , new Date(2017, 3, 26) ],
