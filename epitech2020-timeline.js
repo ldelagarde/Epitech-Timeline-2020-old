@@ -14,7 +14,7 @@ function drawChart() {
     [ '\0'                                 ,  'Maintenant'                            ,  new Date(), new Date() ],
     [ 'B4 - Système Unix - Mémoire'        ,  'Malloc'                                ,  new Date(2017, 0, 23), new Date(2017, 1, 12) ],
     [ 'B4 - C++'                           ,  'NanoTekSpice'                          ,  new Date(2017, 0, 23), new Date(2017, 2, 5)  ],
-    [ 'B4 - Écrits professionnels'         ,  'Mission délicate: recadrer un collègue',  new Date(2017, 0, 30), new Date(2017, 1, 12) ],
+    [ 'B4 - Écrits professionnels'         ,  'Mission délicate: recadrer un collègue',  new Date(2017, 1, 6), new Date(2017, 1, 19) ],
     [ 'B4 - Prog Elem Appliquee / Projet'  ,  'Trade'                                 ,  new Date(2017, 0, 30), new Date(2017, 5, 11) ],
     [ 'B4 - Écrits professionnels'         ,  'Diaporama pour décrocher 1M$'          ,  new Date(2017, 1, 20), new Date(2017, 2, 5)  ],
     [ 'B4 - Sécurité Web'                  ,  'SHODAN Call For Paper'                 ,  new Date(2017, 1, 12), new Date(2017, 4, 3)  ],
